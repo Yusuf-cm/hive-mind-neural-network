@@ -1,0 +1,1172 @@
+[
+    {
+        "generation": 1,
+        "fitness": 4012.0,
+        "steps": 108,
+        "fusions": 32,
+        "deaths": 17,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.21,
+        "avg_distance_to_predator": 13.29,
+        "neural_attention": {
+            "wall_attention": 0.0797,
+            "avatar_attention": 0.0782,
+            "predator_attention": 0.0768
+        }
+    },
+    {
+        "generation": 2,
+        "fitness": 3267.0,
+        "steps": 78,
+        "fusions": 30,
+        "deaths": 19,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 7.56,
+        "avg_distance_to_predator": 13.62,
+        "neural_attention": {
+            "wall_attention": 0.1087,
+            "avatar_attention": 0.0946,
+            "predator_attention": 0.0933
+        }
+    },
+    {
+        "generation": 3,
+        "fitness": 1227.0,
+        "steps": 118,
+        "fusions": 24,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.42,
+        "avg_distance_to_predator": 11.77,
+        "neural_attention": {
+            "wall_attention": 0.0977,
+            "avatar_attention": 0.1171,
+            "predator_attention": 0.0935
+        }
+    },
+    {
+        "generation": 4,
+        "fitness": 6064.0,
+        "steps": 76,
+        "fusions": 38,
+        "deaths": 11,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.45,
+        "avg_distance_to_predator": 14.13,
+        "neural_attention": {
+            "wall_attention": 0.0878,
+            "avatar_attention": 0.098,
+            "predator_attention": 0.0954
+        }
+    },
+    {
+        "generation": 5,
+        "fitness": 5717.0,
+        "steps": 78,
+        "fusions": 37,
+        "deaths": 12,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.35,
+        "avg_distance_to_predator": 12.3,
+        "neural_attention": {
+            "wall_attention": 0.1194,
+            "avatar_attention": 0.1117,
+            "predator_attention": 0.1163
+        }
+    },
+    {
+        "generation": 6,
+        "fitness": 1245.0,
+        "steps": 130,
+        "fusions": 24,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.68,
+        "avg_distance_to_predator": 13.16,
+        "neural_attention": {
+            "wall_attention": 0.1103,
+            "avatar_attention": 0.1087,
+            "predator_attention": 0.1235
+        }
+    },
+    {
+        "generation": 7,
+        "fitness": 1571.0,
+        "steps": 114,
+        "fusions": 25,
+        "deaths": 24,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 6.95,
+        "avg_distance_to_predator": 13.69,
+        "neural_attention": {
+            "wall_attention": 0.1035,
+            "avatar_attention": 0.1174,
+            "predator_attention": 0.1282
+        }
+    },
+    {
+        "generation": 8,
+        "fitness": 2307.0,
+        "steps": 138,
+        "fusions": 27,
+        "deaths": 22,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.57,
+        "avg_distance_to_predator": 13.67,
+        "neural_attention": {
+            "wall_attention": 0.1064,
+            "avatar_attention": 0.1345,
+            "predator_attention": 0.1052
+        }
+    },
+    {
+        "generation": 9,
+        "fitness": 3653.0,
+        "steps": 102,
+        "fusions": 31,
+        "deaths": 18,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.21,
+        "avg_distance_to_predator": 14.1,
+        "neural_attention": {
+            "wall_attention": 0.1087,
+            "avatar_attention": 0.1099,
+            "predator_attention": 0.0964
+        }
+    },
+    {
+        "generation": 10,
+        "fitness": 845.0,
+        "steps": 130,
+        "fusions": 22,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.3,
+        "avg_distance_to_predator": 11.75,
+        "neural_attention": {
+            "wall_attention": 0.0893,
+            "avatar_attention": 0.1246,
+            "predator_attention": 0.1322
+        }
+    },
+    {
+        "generation": 11,
+        "fitness": 528.0,
+        "steps": 52,
+        "fusions": 21,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.02,
+        "avg_distance_to_predator": 11.59,
+        "neural_attention": {
+            "wall_attention": 0.1088,
+            "avatar_attention": 0.128,
+            "predator_attention": 0.1117
+        }
+    },
+    {
+        "generation": 12,
+        "fitness": 2283.0,
+        "steps": 122,
+        "fusions": 27,
+        "deaths": 22,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 4.17,
+        "avg_distance_to_predator": 12.21,
+        "neural_attention": {
+            "wall_attention": 0.113,
+            "avatar_attention": 0.1292,
+            "predator_attention": 0.1129
+        }
+    },
+    {
+        "generation": 13,
+        "fitness": 2268.0,
+        "steps": 112,
+        "fusions": 27,
+        "deaths": 22,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 5.03,
+        "avg_distance_to_predator": 13.88,
+        "neural_attention": {
+            "wall_attention": 0.0994,
+            "avatar_attention": 0.1188,
+            "predator_attention": 0.1101
+        }
+    },
+    {
+        "generation": 14,
+        "fitness": 3300.0,
+        "steps": 100,
+        "fusions": 30,
+        "deaths": 19,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 1.93,
+        "avg_distance_to_predator": 12.24,
+        "neural_attention": {
+            "wall_attention": 0.1087,
+            "avatar_attention": 0.1098,
+            "predator_attention": 0.1105
+        }
+    },
+    {
+        "generation": 15,
+        "fitness": 1293.0,
+        "steps": 162,
+        "fusions": 24,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 7.07,
+        "avg_distance_to_predator": 13.92,
+        "neural_attention": {
+            "wall_attention": 0.1092,
+            "avatar_attention": 0.1171,
+            "predator_attention": 0.1042
+        }
+    },
+    {
+        "generation": 16,
+        "fitness": 3693.5,
+        "steps": 129,
+        "fusions": 31,
+        "deaths": 18,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 6.91,
+        "avg_distance_to_predator": 13.34,
+        "neural_attention": {
+            "wall_attention": 0.0988,
+            "avatar_attention": 0.1114,
+            "predator_attention": 0.1077
+        }
+    },
+    {
+        "generation": 17,
+        "fitness": 1577.0,
+        "steps": 118,
+        "fusions": 25,
+        "deaths": 24,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.68,
+        "avg_distance_to_predator": 11.79,
+        "neural_attention": {
+            "wall_attention": 0.1036,
+            "avatar_attention": 0.1169,
+            "predator_attention": 0.114
+        }
+    },
+    {
+        "generation": 18,
+        "fitness": 3931.0,
+        "steps": 54,
+        "fusions": 32,
+        "deaths": 17,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.2,
+        "avg_distance_to_predator": 10.43,
+        "neural_attention": {
+            "wall_attention": 0.1095,
+            "avatar_attention": 0.1154,
+            "predator_attention": 0.1167
+        }
+    },
+    {
+        "generation": 19,
+        "fitness": 2908.0,
+        "steps": 72,
+        "fusions": 29,
+        "deaths": 20,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 5.03,
+        "avg_distance_to_predator": 13.2,
+        "neural_attention": {
+            "wall_attention": 0.1067,
+            "avatar_attention": 0.1033,
+            "predator_attention": 0.1091
+        }
+    },
+    {
+        "generation": 20,
+        "fitness": 2585.0,
+        "steps": 90,
+        "fusions": 28,
+        "deaths": 21,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 1.94,
+        "avg_distance_to_predator": 11.8,
+        "neural_attention": {
+            "wall_attention": 0.1147,
+            "avatar_attention": 0.1226,
+            "predator_attention": 0.1142
+        }
+    },
+    {
+        "generation": 21,
+        "fitness": 7434.0,
+        "steps": 56,
+        "fusions": 42,
+        "deaths": 7,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 7.36,
+        "avg_distance_to_predator": 13.1,
+        "neural_attention": {
+            "wall_attention": 0.1074,
+            "avatar_attention": 0.1254,
+            "predator_attention": 0.1188
+        }
+    },
+    {
+        "generation": 22,
+        "fitness": 830.0,
+        "steps": 120,
+        "fusions": 22,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.12,
+        "avg_distance_to_predator": 12.69,
+        "neural_attention": {
+            "wall_attention": 0.1163,
+            "avatar_attention": 0.1453,
+            "predator_attention": 0.1374
+        }
+    },
+    {
+        "generation": 23,
+        "fitness": 4323.0,
+        "steps": 82,
+        "fusions": 33,
+        "deaths": 16,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 4.5,
+        "avg_distance_to_predator": 12.19,
+        "neural_attention": {
+            "wall_attention": 0.1368,
+            "avatar_attention": 0.135,
+            "predator_attention": 0.1338
+        }
+    },
+    {
+        "generation": 24,
+        "fitness": 5750.0,
+        "steps": 100,
+        "fusions": 37,
+        "deaths": 12,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.27,
+        "avg_distance_to_predator": 12.76,
+        "neural_attention": {
+            "wall_attention": 0.1288,
+            "avatar_attention": 0.1344,
+            "predator_attention": 0.1415
+        }
+    },
+    {
+        "generation": 25,
+        "fitness": 6791.0,
+        "steps": 94,
+        "fusions": 40,
+        "deaths": 9,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 4.29,
+        "avg_distance_to_predator": 14.45,
+        "neural_attention": {
+            "wall_attention": 0.1318,
+            "avatar_attention": 0.1362,
+            "predator_attention": 0.1192
+        }
+    },
+    {
+        "generation": 26,
+        "fitness": 5395.5,
+        "steps": 97,
+        "fusions": 36,
+        "deaths": 13,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.4,
+        "avg_distance_to_predator": 12.79,
+        "neural_attention": {
+            "wall_attention": 0.1252,
+            "avatar_attention": 0.144,
+            "predator_attention": 0.1462
+        }
+    },
+    {
+        "generation": 27,
+        "fitness": 7108.0,
+        "steps": 72,
+        "fusions": 41,
+        "deaths": 8,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.53,
+        "avg_distance_to_predator": 12.84,
+        "neural_attention": {
+            "wall_attention": 0.1192,
+            "avatar_attention": 0.1467,
+            "predator_attention": 0.126
+        }
+    },
+    {
+        "generation": 28,
+        "fitness": 1915.0,
+        "steps": 110,
+        "fusions": 26,
+        "deaths": 23,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.13,
+        "avg_distance_to_predator": 11.28,
+        "neural_attention": {
+            "wall_attention": 0.1178,
+            "avatar_attention": 0.1207,
+            "predator_attention": 0.1306
+        }
+    },
+    {
+        "generation": 29,
+        "fitness": 1185.0,
+        "steps": 90,
+        "fusions": 24,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.91,
+        "avg_distance_to_predator": 13.05,
+        "neural_attention": {
+            "wall_attention": 0.132,
+            "avatar_attention": 0.1362,
+            "predator_attention": 0.1372
+        }
+    },
+    {
+        "generation": 30,
+        "fitness": 1867.0,
+        "steps": 78,
+        "fusions": 26,
+        "deaths": 23,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 4.28,
+        "avg_distance_to_predator": 10.94,
+        "neural_attention": {
+            "wall_attention": 0.1127,
+            "avatar_attention": 0.1349,
+            "predator_attention": 0.1262
+        }
+    },
+    {
+        "generation": 31,
+        "fitness": 4957.0,
+        "steps": 38,
+        "fusions": 35,
+        "deaths": 14,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 1.25,
+        "avg_distance_to_predator": 9.91,
+        "neural_attention": {
+            "wall_attention": 0.1286,
+            "avatar_attention": 0.1363,
+            "predator_attention": 0.1319
+        }
+    },
+    {
+        "generation": 32,
+        "fitness": 4320.0,
+        "steps": 80,
+        "fusions": 33,
+        "deaths": 16,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.5,
+        "avg_distance_to_predator": 11.77,
+        "neural_attention": {
+            "wall_attention": 0.1174,
+            "avatar_attention": 0.1399,
+            "predator_attention": 0.1371
+        }
+    },
+    {
+        "generation": 33,
+        "fitness": 2334.0,
+        "steps": 156,
+        "fusions": 27,
+        "deaths": 22,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.33,
+        "avg_distance_to_predator": 13.33,
+        "neural_attention": {
+            "wall_attention": 0.1208,
+            "avatar_attention": 0.1483,
+            "predator_attention": 0.1248
+        }
+    },
+    {
+        "generation": 34,
+        "fitness": 3991.0,
+        "steps": 94,
+        "fusions": 32,
+        "deaths": 17,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 5.26,
+        "avg_distance_to_predator": 13.77,
+        "neural_attention": {
+            "wall_attention": 0.1289,
+            "avatar_attention": 0.1389,
+            "predator_attention": 0.13
+        }
+    },
+    {
+        "generation": 35,
+        "fitness": 2271.0,
+        "steps": 114,
+        "fusions": 27,
+        "deaths": 22,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.57,
+        "avg_distance_to_predator": 12.67,
+        "neural_attention": {
+            "wall_attention": 0.134,
+            "avatar_attention": 0.1366,
+            "predator_attention": 0.1308
+        }
+    },
+    {
+        "generation": 36,
+        "fitness": 1257.0,
+        "steps": 138,
+        "fusions": 24,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.11,
+        "avg_distance_to_predator": 13.21,
+        "neural_attention": {
+            "wall_attention": 0.1211,
+            "avatar_attention": 0.1415,
+            "predator_attention": 0.1277
+        }
+    },
+    {
+        "generation": 37,
+        "fitness": 2217.0,
+        "steps": 78,
+        "fusions": 27,
+        "deaths": 22,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 5.36,
+        "avg_distance_to_predator": 12.25,
+        "neural_attention": {
+            "wall_attention": 0.1216,
+            "avatar_attention": 0.1456,
+            "predator_attention": 0.1301
+        }
+    },
+    {
+        "generation": 38,
+        "fitness": 7162.0,
+        "steps": 108,
+        "fusions": 41,
+        "deaths": 8,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 6.81,
+        "avg_distance_to_predator": 12.99,
+        "neural_attention": {
+            "wall_attention": 0.1325,
+            "avatar_attention": 0.131,
+            "predator_attention": 0.1273
+        }
+    },
+    {
+        "generation": 39,
+        "fitness": 2588.0,
+        "steps": 92,
+        "fusions": 28,
+        "deaths": 21,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.82,
+        "avg_distance_to_predator": 14.21,
+        "neural_attention": {
+            "wall_attention": 0.1318,
+            "avatar_attention": 0.1227,
+            "predator_attention": 0.1455
+        }
+    },
+    {
+        "generation": 40,
+        "fitness": 3345.0,
+        "steps": 130,
+        "fusions": 30,
+        "deaths": 19,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.78,
+        "avg_distance_to_predator": 13.25,
+        "neural_attention": {
+            "wall_attention": 0.1303,
+            "avatar_attention": 0.1291,
+            "predator_attention": 0.1337
+        }
+    },
+    {
+        "generation": 41,
+        "fitness": 4644.5,
+        "steps": 63,
+        "fusions": 34,
+        "deaths": 15,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.37,
+        "avg_distance_to_predator": 11.01,
+        "neural_attention": {
+            "wall_attention": 0.1211,
+            "avatar_attention": 0.1339,
+            "predator_attention": 0.1369
+        }
+    },
+    {
+        "generation": 42,
+        "fitness": 2313.0,
+        "steps": 142,
+        "fusions": 27,
+        "deaths": 22,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 6.2,
+        "avg_distance_to_predator": 12.98,
+        "neural_attention": {
+            "wall_attention": 0.1066,
+            "avatar_attention": 0.1349,
+            "predator_attention": 0.1449
+        }
+    },
+    {
+        "generation": 43,
+        "fitness": 3327.0,
+        "steps": 118,
+        "fusions": 30,
+        "deaths": 19,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 5.62,
+        "avg_distance_to_predator": 12.38,
+        "neural_attention": {
+            "wall_attention": 0.1182,
+            "avatar_attention": 0.1491,
+            "predator_attention": 0.1332
+        }
+    },
+    {
+        "generation": 44,
+        "fitness": 2313.0,
+        "steps": 142,
+        "fusions": 27,
+        "deaths": 22,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.03,
+        "avg_distance_to_predator": 12.59,
+        "neural_attention": {
+            "wall_attention": 0.1393,
+            "avatar_attention": 0.1211,
+            "predator_attention": 0.1378
+        }
+    },
+    {
+        "generation": 45,
+        "fitness": 1218.0,
+        "steps": 112,
+        "fusions": 24,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.92,
+        "avg_distance_to_predator": 11.71,
+        "neural_attention": {
+            "wall_attention": 0.1162,
+            "avatar_attention": 0.1317,
+            "predator_attention": 0.1477
+        }
+    },
+    {
+        "generation": 46,
+        "fitness": 4662.5,
+        "steps": 75,
+        "fusions": 34,
+        "deaths": 15,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 6.23,
+        "avg_distance_to_predator": 11.88,
+        "neural_attention": {
+            "wall_attention": 0.1227,
+            "avatar_attention": 0.1388,
+            "predator_attention": 0.1375
+        }
+    },
+    {
+        "generation": 47,
+        "fitness": 5705.0,
+        "steps": 70,
+        "fusions": 37,
+        "deaths": 12,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 5.36,
+        "avg_distance_to_predator": 11.04,
+        "neural_attention": {
+            "wall_attention": 0.1263,
+            "avatar_attention": 0.1375,
+            "predator_attention": 0.1431
+        }
+    },
+    {
+        "generation": 48,
+        "fitness": 2489.0,
+        "steps": 26,
+        "fusions": 28,
+        "deaths": 21,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.46,
+        "avg_distance_to_predator": 10.44,
+        "neural_attention": {
+            "wall_attention": 0.1232,
+            "avatar_attention": 0.118,
+            "predator_attention": 0.137
+        }
+    },
+    {
+        "generation": 49,
+        "fitness": 3596.0,
+        "steps": 64,
+        "fusions": 31,
+        "deaths": 18,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.27,
+        "avg_distance_to_predator": 13.02,
+        "neural_attention": {
+            "wall_attention": 0.1402,
+            "avatar_attention": 0.1394,
+            "predator_attention": 0.1335
+        }
+    },
+    {
+        "generation": 50,
+        "fitness": 758.0,
+        "steps": 72,
+        "fusions": 22,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.23,
+        "avg_distance_to_predator": 13.27,
+        "neural_attention": {
+            "wall_attention": 0.1046,
+            "avatar_attention": 0.1336,
+            "predator_attention": 0.1295
+        }
+    },
+    {
+        "generation": 51,
+        "fitness": 2307.0,
+        "steps": 138,
+        "fusions": 27,
+        "deaths": 22,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 4.66,
+        "avg_distance_to_predator": 13.76,
+        "neural_attention": {
+            "wall_attention": 0.1178,
+            "avatar_attention": 0.1318,
+            "predator_attention": 0.1344
+        }
+    },
+    {
+        "generation": 52,
+        "fitness": 1027.0,
+        "steps": 118,
+        "fusions": 23,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 4.49,
+        "avg_distance_to_predator": 13.52,
+        "neural_attention": {
+            "wall_attention": 0.124,
+            "avatar_attention": 0.1365,
+            "predator_attention": 0.1214
+        }
+    },
+    {
+        "generation": 53,
+        "fitness": 6420.0,
+        "steps": 80,
+        "fusions": 39,
+        "deaths": 10,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 5.36,
+        "avg_distance_to_predator": 13.23,
+        "neural_attention": {
+            "wall_attention": 0.1321,
+            "avatar_attention": 0.1472,
+            "predator_attention": 0.1459
+        }
+    },
+    {
+        "generation": 54,
+        "fitness": 4332.0,
+        "steps": 88,
+        "fusions": 33,
+        "deaths": 16,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 4.87,
+        "avg_distance_to_predator": 12.47,
+        "neural_attention": {
+            "wall_attention": 0.1122,
+            "avatar_attention": 0.1297,
+            "predator_attention": 0.1297
+        }
+    },
+    {
+        "generation": 55,
+        "fitness": 5047.0,
+        "steps": 98,
+        "fusions": 35,
+        "deaths": 14,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.61,
+        "avg_distance_to_predator": 12.64,
+        "neural_attention": {
+            "wall_attention": 0.1282,
+            "avatar_attention": 0.1391,
+            "predator_attention": 0.1335
+        }
+    },
+    {
+        "generation": 56,
+        "fitness": 5367.0,
+        "steps": 78,
+        "fusions": 36,
+        "deaths": 13,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 1.96,
+        "avg_distance_to_predator": 13.1,
+        "neural_attention": {
+            "wall_attention": 0.1319,
+            "avatar_attention": 0.136,
+            "predator_attention": 0.1397
+        }
+    },
+    {
+        "generation": 57,
+        "fitness": 2939.5,
+        "steps": 93,
+        "fusions": 29,
+        "deaths": 20,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.3,
+        "avg_distance_to_predator": 14.16,
+        "neural_attention": {
+            "wall_attention": 0.1258,
+            "avatar_attention": 0.1405,
+            "predator_attention": 0.1321
+        }
+    },
+    {
+        "generation": 58,
+        "fitness": 6070.0,
+        "steps": 80,
+        "fusions": 38,
+        "deaths": 11,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 7.55,
+        "avg_distance_to_predator": 12.34,
+        "neural_attention": {
+            "wall_attention": 0.132,
+            "avatar_attention": 0.1352,
+            "predator_attention": 0.14
+        }
+    },
+    {
+        "generation": 59,
+        "fitness": 5038.0,
+        "steps": 92,
+        "fusions": 35,
+        "deaths": 14,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 7.63,
+        "avg_distance_to_predator": 13.57,
+        "neural_attention": {
+            "wall_attention": 0.1365,
+            "avatar_attention": 0.1481,
+            "predator_attention": 0.1297
+        }
+    },
+    {
+        "generation": 60,
+        "fitness": 2564.0,
+        "steps": 76,
+        "fusions": 28,
+        "deaths": 21,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 5.15,
+        "avg_distance_to_predator": 11.64,
+        "neural_attention": {
+            "wall_attention": 0.1216,
+            "avatar_attention": 0.1458,
+            "predator_attention": 0.1414
+        }
+    },
+    {
+        "generation": 61,
+        "fitness": 3273.0,
+        "steps": 82,
+        "fusions": 30,
+        "deaths": 19,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.66,
+        "avg_distance_to_predator": 12.05,
+        "neural_attention": {
+            "wall_attention": 0.1219,
+            "avatar_attention": 0.1245,
+            "predator_attention": 0.1425
+        }
+    },
+    {
+        "generation": 62,
+        "fitness": 2630.0,
+        "steps": 120,
+        "fusions": 28,
+        "deaths": 21,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 6.24,
+        "avg_distance_to_predator": 12.86,
+        "neural_attention": {
+            "wall_attention": 0.1341,
+            "avatar_attention": 0.1518,
+            "predator_attention": 0.135
+        }
+    },
+    {
+        "generation": 63,
+        "fitness": 6599.0,
+        "steps": 66,
+        "fusions": 40,
+        "deaths": 10,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.45,
+        "avg_distance_to_predator": 11.9,
+        "neural_attention": {
+            "wall_attention": 0.117,
+            "avatar_attention": 0.139,
+            "predator_attention": 0.1488
+        }
+    },
+    {
+        "generation": 64,
+        "fitness": 3629.0,
+        "steps": 86,
+        "fusions": 31,
+        "deaths": 18,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.05,
+        "avg_distance_to_predator": 13.11,
+        "neural_attention": {
+            "wall_attention": 0.1169,
+            "avatar_attention": 0.1276,
+            "predator_attention": 0.1387
+        }
+    },
+    {
+        "generation": 65,
+        "fitness": 6761.0,
+        "steps": 74,
+        "fusions": 40,
+        "deaths": 9,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 4.73,
+        "avg_distance_to_predator": 12.39,
+        "neural_attention": {
+            "wall_attention": 0.112,
+            "avatar_attention": 0.1305,
+            "predator_attention": 0.1277
+        }
+    },
+    {
+        "generation": 66,
+        "fitness": 3276.0,
+        "steps": 84,
+        "fusions": 30,
+        "deaths": 19,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 5.95,
+        "avg_distance_to_predator": 12.05,
+        "neural_attention": {
+            "wall_attention": 0.1161,
+            "avatar_attention": 0.1446,
+            "predator_attention": 0.1326
+        }
+    },
+    {
+        "generation": 67,
+        "fitness": 977.5,
+        "steps": 85,
+        "fusions": 23,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.24,
+        "avg_distance_to_predator": 12.42,
+        "neural_attention": {
+            "wall_attention": 0.117,
+            "avatar_attention": 0.1452,
+            "predator_attention": 0.1371
+        }
+    },
+    {
+        "generation": 68,
+        "fitness": 3276.0,
+        "steps": 84,
+        "fusions": 30,
+        "deaths": 19,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.4,
+        "avg_distance_to_predator": 11.03,
+        "neural_attention": {
+            "wall_attention": 0.1154,
+            "avatar_attention": 0.1429,
+            "predator_attention": 0.1371
+        }
+    },
+    {
+        "generation": 69,
+        "fitness": 4377.0,
+        "steps": 118,
+        "fusions": 33,
+        "deaths": 16,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.1,
+        "avg_distance_to_predator": 14.13,
+        "neural_attention": {
+            "wall_attention": 0.1333,
+            "avatar_attention": 0.1378,
+            "predator_attention": 0.1257
+        }
+    },
+    {
+        "generation": 70,
+        "fitness": 6384.0,
+        "steps": 56,
+        "fusions": 39,
+        "deaths": 10,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 8.95,
+        "avg_distance_to_predator": 13.66,
+        "neural_attention": {
+            "wall_attention": 0.1374,
+            "avatar_attention": 0.1456,
+            "predator_attention": 0.1522
+        }
+    },
+    {
+        "generation": 71,
+        "fitness": 1882.0,
+        "steps": 88,
+        "fusions": 26,
+        "deaths": 23,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 8.77,
+        "avg_distance_to_predator": 13.64,
+        "neural_attention": {
+            "wall_attention": 0.1333,
+            "avatar_attention": 0.1644,
+            "predator_attention": 0.1409
+        }
+    },
+    {
+        "generation": 72,
+        "fitness": 5388.0,
+        "steps": 92,
+        "fusions": 36,
+        "deaths": 13,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 7.63,
+        "avg_distance_to_predator": 14.95,
+        "neural_attention": {
+            "wall_attention": 0.1263,
+            "avatar_attention": 0.1372,
+            "predator_attention": 0.1288
+        }
+    },
+    {
+        "generation": 73,
+        "fitness": 6776.0,
+        "steps": 84,
+        "fusions": 40,
+        "deaths": 9,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 5.18,
+        "avg_distance_to_predator": 11.63,
+        "neural_attention": {
+            "wall_attention": 0.1298,
+            "avatar_attention": 0.1236,
+            "predator_attention": 0.133
+        }
+    },
+    {
+        "generation": 74,
+        "fitness": 7796.0,
+        "steps": 64,
+        "fusions": 43,
+        "deaths": 6,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 4.76,
+        "avg_distance_to_predator": 13.23,
+        "neural_attention": {
+            "wall_attention": 0.1262,
+            "avatar_attention": 0.1224,
+            "predator_attention": 0.1333
+        }
+    },
+    {
+        "generation": 75,
+        "fitness": 7096.0,
+        "steps": 64,
+        "fusions": 41,
+        "deaths": 8,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.41,
+        "avg_distance_to_predator": 12.49,
+        "neural_attention": {
+            "wall_attention": 0.1337,
+            "avatar_attention": 0.1274,
+            "predator_attention": 0.1432
+        }
+    },
+    {
+        "generation": 76,
+        "fitness": 338.5,
+        "steps": 59,
+        "fusions": 20,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 3.71,
+        "avg_distance_to_predator": 14.33,
+        "neural_attention": {
+            "wall_attention": 0.1486,
+            "avatar_attention": 0.1389,
+            "predator_attention": 0.1488
+        }
+    },
+    {
+        "generation": 77,
+        "fitness": -842.0,
+        "steps": 72,
+        "fusions": 14,
+        "deaths": 25,
+        "predator_killed": false,
+        "avg_distance_between_avatars": 2.11,
+        "avg_distance_to_predator": 13.47,
+        "neural_attention": {
+            "wall_attention": 0.1423,
+            "avatar_attention": 0.1442,
+            "predator_attention": 0.1434
+        }
+    },
+    {
+        "generation": 78,
+        "fitness": 12808.0,
+        "steps": 72,
+        "fusions": 34,
+        "deaths": 14,
+        "predator_killed": true,
+        "avg_distance_between_avatars": 5.52,
+        "avg_distance_to_predator": 11.2,
+        "neural_attention": {
+            "wall_attention": 0.1366,
+            "avatar_attention": 0.1234,
+            "predator_attention": 0.1518
+        }
+    }
+]
